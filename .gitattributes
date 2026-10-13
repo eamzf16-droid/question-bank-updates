@@ -1,0 +1,2 @@
+# The app checks a signature over the exact bytes of these files: git must not change line endings.
+* -text
