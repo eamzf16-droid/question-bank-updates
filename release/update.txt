@@ -1,6 +1,10 @@
-code=23
-name=1.22
-wrapper=2
-size=1823805
-sha256=f886f74226f822d0835ea352f08e4ee19b7536e4a2be8545c7503f47af7c0926
-page=13035fce7464152119b34733255a01743aff9a65ad719ba6e9239d1f9ae04cb6
+code=25
+name=1.24
+wrapper=3
+min=0
+size=1849082
+sha256=724c456563142d98ab99003127a3b5fd630ceff91035cda21e1b4bc6cf6ce4cf
+page=16fe0d1edb63f285691ece68999476d9dbfe0adce9d4574300748c16a8ee31f2
+note.1=Theme and the other choice buttons show again
+note.2=About is now the first thing in Settings
+note.3=The WhatsApp and Email icons are the same size
