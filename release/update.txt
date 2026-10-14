@@ -1,8 +1,8 @@
-code=28
-name=1.27
+code=29
+name=1.28
 wrapper=3
 min=0
-size=1868532
-sha256=82256f08cf502b89c4595c0fc69065e59f129b23fb2c40e32f5d521016418d86
-page=c80bb930c193be035a6d214a5755f1e73f79050674f263d0f53a5f9c1bbf734f
-note.1=Books now come from Get books alone, so the button for adding one from a file is gone
+size=1868834
+sha256=2e5351e22cde195cb9bd5069b9d318e82906700855fc1412cfbca5001c7e4926
+page=d757b12d34b4319bfd2617cbbb2ea6dd7e53fd74d654d7b3235667722dcf3407
+note.1=Get all now finishes each book, its questions and its PDF together, before it starts the next
